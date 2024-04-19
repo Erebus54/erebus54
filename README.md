@@ -59,7 +59,8 @@ hobbies: ["Painting", "Astrophotography"]
 <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" alt="Linux" width="45" height="45"/>
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" width="45" height="45"/>
 
-![Patricks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erebus54&hide=contribs,prs&icons=true&theme=radical)
+![Patricks's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erebus54&icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Erebus54&layout=compact)
 
 
