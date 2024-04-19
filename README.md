@@ -15,7 +15,7 @@ current_job: Data Analyst
 education:
   [
     "Self-Taught Developer",
-    "Bachelor's in Political Science",
+    "Bachelor's in Political Science"
   ]
 
 fields_of_interests:
@@ -28,8 +28,7 @@ fields_of_interests:
     "Web Application Developement",
     "Geostatistics ",
     "Time-Series Analysis", 
-    "Astrostatistics",
-    
+    "Astrostatistics"
   ]
   
 currently_learning: ["AWS, and Prompt Engineering"]
@@ -52,9 +51,6 @@ hobbies: ["Painting", "Astrophotography"]
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg" alt="PostgreSQL" width="45" height="45"/>
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="45" height="45"/>
 <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/181_Java_logo_logos-512.png" alt="Java" width="45" height="45"/>
-
-
-
 <img src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="MySQL" width="45" height="45"/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_linux-512.png" alt="Linux" width="45" height="45"/>
 <img src="https://cdn3.iconfinder.com/data/icons/social-media-2169/24/social_media_social_media_logo_git-512.png" alt="Git" width="45" height="45"/>
