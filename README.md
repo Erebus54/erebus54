@@ -27,8 +27,8 @@ fields_of_interests:
     "Geographic Information Systems (GIS)",
     "Web Application Developement",
     "Geostatistics ",
-    "Time-Series Analysis", 
-    "Astrostatistics"
+    "Astrostatistics",
+    "Time-Series Analysis"
   ]
   
 currently_learning: ["AWS, High Performance Time Series Forecasting, and Prompt Engineering"]
