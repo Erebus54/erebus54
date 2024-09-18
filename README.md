@@ -31,7 +31,7 @@ fields_of_interests:
     "Astrostatistics"
   ]
   
-currently_learning: ["AWS, and Prompt Engineering"]
+currently_learning: ["AWS, High Performance Time Series Forecasting, and Prompt Engineering"]
 2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies or data science methods"]
 hobbies: ["Painting", "Astrophotography"]
 ```
