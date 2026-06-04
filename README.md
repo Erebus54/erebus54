@@ -15,7 +15,6 @@ I am especially interested in applied data science, business analytics, forecast
 ## About Me
 
 ```yaml
-```yaml
 name: Patrick Schnurbusch
 location: Ontario, Canada
 role: Principal Consultant
@@ -57,9 +56,6 @@ personal_interests:
   - Painting
   - Astrophotography
 ```
-
-```
-
 ---
 
 ## Tools & Technologies
